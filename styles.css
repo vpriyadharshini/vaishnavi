@@ -1,0 +1,68 @@
+body{
+
+}
+.h{
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+}
+.g{
+  font-family: 'Pacifico', cursive;
+
+
+
+}
+.btn{
+  position:relative;
+
+  top: 100px;
+  right: 600px;
+bottom: 600px;
+}
+
+.pics1{
+
+    width: 400px;
+position: relative;
+bottom: 350px;
+right: 150px;
+left: 4px;
+}
+.pics2{
+  width: 400px;
+position: relative;
+bottom: 350px;
+right: 70px;
+left: 100px;
+}
+.pics3{
+  width: 400px;
+position: relative;
+bottom: 350px;
+left: 200px;
+}
+
+
+.art2{
+  position: relative;
+  left:450px;
+}
+.ff{
+  font-family: sans-serif;
+  font-size: 15px;
+  text-align: center;
+}
+.div1{
+text-align: center;
+      margin-bottom: 400px;
+      background-color: #fc7f7f;
+
+}
+.div2{
+  background-color:white;
+  text-align:center;
+  margin-bottom: 100px;
+
+}
+.div3{
+  text-align: center;
+}
